@@ -6,4 +6,4 @@ excerpt: please register as soon as possible
 featured: false
 ---
 
-visit our official website for latest news
+visit our official website for latest news![testing pic](/media/pasted-image-1785290655376.png)
